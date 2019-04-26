@@ -1,5 +1,5 @@
 # INFO6210_Pokemon_Final_Project
-### INFO-6210-FINAL-PROJECT --- POKEMON PROJECT
+##### INFO-6210-FINAL-PROJECT --- POKEMON PROJECT
 
 # This documentation is try to show what's contain in different file in this zip file.
 
