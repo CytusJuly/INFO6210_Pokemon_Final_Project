@@ -28,6 +28,7 @@
 ##### Tables of 4 question: T1-T4.zip
 
 ### Team Member Info:
+#### Yijin Zhu 001498312
 #### Yuhang Li 001442226
 #### Yujin Xiang 001496297
-#### Yijin Zhu 001498312
+
